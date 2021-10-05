@@ -1,4 +1,4 @@
-1)Basics of github:  
+1)Basics of github:-  
    https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
    This playlist gives a good insight into basics of github.
  After learning basics of github it is always better to do some small works/projects on github.You learn much more while applying than while seeing tutorials.
