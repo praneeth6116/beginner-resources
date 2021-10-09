@@ -5,7 +5,7 @@
  After learning basics of github it is always better to do some small works/projects on github.You learn much more while applying than while seeing tutorials.
  
 2)Installing linux on your windows pc(dual booting)
-  This is a tough job for a person who is installing linux for the first time.There are lot of tutorials on youtube and google which are having                differences them so it becomes a tedious job to find which is better.
+  This is a tough job for a person who is installing linux for the first time.There are lot of tutorials on youtube and google which are having                differences in them so it becomes a tedious job to find which is better.
   Out of many tutorials I saw this one is the best in my opinion.
   
   https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/
